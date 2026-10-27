@@ -23,7 +23,8 @@ int main(){
     if(v1==v2){
         perimetro= v1*4;
         printf("il perimetro vale: %f", perimetro);
-    } else{
+    } 
+    else{
         area = v1*v2;
         printf("l'area vale: %f", area);
     }
